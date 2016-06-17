@@ -1,0 +1,14 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"vcs": "git",
+			"revision": "d7bf3545bb0dacf009c535b3d3fbf53ac0a339ab",
+			"branch": "master",
+			"path": "/context",
+			"notests": true
+		}
+	]
+}
